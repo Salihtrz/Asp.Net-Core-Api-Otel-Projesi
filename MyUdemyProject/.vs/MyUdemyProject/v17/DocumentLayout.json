@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\Core_Proje\\MyUdemyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{766B93D1-C13F-4A95-8CB3-77EB52A2BB6F}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\c# dersleri\\core_proje\\myudemyproject\\frontend\\hotelproject.webui\\views\\bookingadmin\\updatebooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{766B93D1-C13F-4A95-8CB3-77EB52A2BB6F}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\bookingadmin\\updatebooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766B93D1-C13F-4A95-8CB3-77EB52A2BB6F}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\c# dersleri\\core_proje\\myudemyproject\\frontend\\hotelproject.webui\\controllers\\bookingadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766B93D1-C13F-4A95-8CB3-77EB52A2BB6F}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\controllers\\bookingadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766B93D1-C13F-4A95-8CB3-77EB52A2BB6F}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\c# dersleri\\core_proje\\myudemyproject\\frontend\\hotelproject.webui\\views\\bookingadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{766B93D1-C13F-4A95-8CB3-77EB52A2BB6F}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\bookingadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5258F57D-D89D-4E21-BA1F-EB06805E7F1A}|Api Consume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\c# dersleri\\core_proje\\myudemyproject\\api consume\\hotelproject.webapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5258F57D-D89D-4E21-BA1F-EB06805E7F1A}|Api Consume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:api consume\\hotelproject.webapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateBooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\Core_Proje\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\BookingAdmin\\UpdateBooking.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\BookingAdmin\\UpdateBooking.cshtml",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\Core_Proje\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\BookingAdmin\\UpdateBooking.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\BookingAdmin\\UpdateBooking.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T23:12:52.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\Core_Proje\\MyUdemyProject\\Api Consume\\HotelProject.WebApi\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Api Consume\\HotelProject.WebApi\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\Core_Proje\\MyUdemyProject\\Api Consume\\HotelProject.WebApi\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Api Consume\\HotelProject.WebApi\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwEwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:57:06.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\Core_Proje\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\BookingAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\BookingAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\Core_Proje\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Views\\BookingAdmin\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\BookingAdmin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T22:46:08.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\Core_Proje\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Controllers\\BookingAdminController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Controllers\\BookingAdminController.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\C# Dersleri\\Core_Proje\\MyUdemyProject\\Frontend\\HotelProject.WebUI\\Controllers\\BookingAdminController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Controllers\\BookingAdminController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwE4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:08:55.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
